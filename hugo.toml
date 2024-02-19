@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://github.com/cass4444/365-days-in-the-key-of-H/blob/main/static/'
 languageCode = 'en-us'
 title = '365 Days in the Key of H Major'
 theme = 'ananke'
